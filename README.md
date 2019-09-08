@@ -27,15 +27,15 @@ ____
     - Hiromi Hirakawa, The International University of Kagoshima (Secretariat)
 
 **In collaboration with**  
-- Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University  
-- Department of Archaeology, Graduate School of Letters and Arts, Tohoku University  
-- Tohoku Forum for Creativity, Organization for Research Promotion, Tohoku University  
-- Japan Association for Archaeoinformatics (JAAI)  
-- NPO Japanese Centre for South Asian Cultural Heritage (JCSACH)  
+- [Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University](http://www.fris.tohoku.ac.jp/en/)  
+- [Department of Archaeology, Graduate School of Letters and Arts, Tohoku University](https://www.sal.tohoku.ac.jp/en/research/specializations/lab/---id-16.html)  
+- [Tohoku Forum for Creativity, Organization for Research Promotion, Tohoku University](http://www.tfc.tohoku.ac.jp/)  
+- [Japan Association for Archaeoinformatics (JAAI)](https://www.archaeo-info.org/)  
+- [NPO Japanese Centre for South Asian Cultural Heritage (JCSACH)](https://sites.google.com/site/npojcsach/)  
 
 **Sponsored by**  
 - Kajima Foundation  
-- Sendai Tourism, Convention and International Association (SenTIA)  
+- [Sendai Tourism, Convention and International Association (SenTIA)](https://www.sentia-sendai.jp/english-guide/)  
 ****
 
 ## General Program
