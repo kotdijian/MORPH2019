@@ -4,7 +4,12 @@
 13-15 September 2019  
 at Tohoku Forum of Creativity, Tohoku University, Sendai, Japan
 ____
-[Program](##General Program)
+[Program](#general-program)
+[Book of Abstracts](https://github.com/kotdijian/MORPH2019/blob/master/Abstract.pdf)
+[Workshop01](https://github.com/CSHoggard/-Morph2019)
+[Workshop02](https://github.com/benmarwick/2019-09-14-morph2019)
+[Plenary Session](https://github.com/kotdijian/MORPH2019/blob/master/plenary.md)
+[Abstract papes](
 
 **Organized by MORPH 2019 Sendai Local Organizing committee**
 - Chair:	Kaoru Akoshima, Tohoku University  
@@ -34,17 +39,17 @@ ____
 **13 September**  
 AM: Registration (no lunch meal provided)  
 PM (13:00~16:30)  
-**Workshop #01 *Introduction to Geometric Morphometrics in Archaeology***  
+[**Workshop #01 *Introduction to Geometric Morphometrics in Archaeology***](https://github.com/CSHoggard/-Morph2019)  
 by Christian Steven Hoggard (Southampton University)  
 
 evening: **Icebreaker**  
 
 **14 September**  
 AM (9:00~12:00)  
-**Workshop #02 *Reproducibility and Transparency in Archaeological Science using R and Related Tools***  
+[**Workshop #02 *Reproducibility and Transparency in Archaeological Science using R and Related Tools***](https://github.com/benmarwick/2019-09-14-morph2019)  
 by Ben Marwick (The University of Washington)  
 **lunch** 
-PM: Plenary Session **Recent Progress of Morphometrics in Archaeology and Anthropology**
+PM: Plenary Session [**Recent Progress of Morphometrics in Archaeology and Anthropology**](https://github.com/kotdijian/MORPH2019/blob/master/plenary.md)  
 
 evening: **Conference Dinner**  
 
