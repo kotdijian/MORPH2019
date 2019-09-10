@@ -62,6 +62,6 @@ at Sendai-han Nagaya Sakaba [(location: GoogleMap)](https://www.google.co.jp/map
 AM and PM: **Oral and Poster Presentations**  
 
 **16 September**
-Guide Tour to Tomizawa Site Museum (in Sendai City) *optional*  
+Guide Tour to [Tomizawa Site Museum](https://www.google.co.jp/maps/place/Sendai+City+Tomizawa+Site+Museum/@38.22285,140.8703573,17z/data=!3m1!4b1!4m5!3m4!1s0x5f8a26370a783d71:0xd9ba6189ffbab61c!8m2!3d38.22285!4d140.872546?hl=en&authuser=0) (in Sendai City) *optional*  
 
 [**(back to top)**](#MORPH2019)
