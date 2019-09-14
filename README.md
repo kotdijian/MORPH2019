@@ -50,7 +50,7 @@ evening: **Icebreaker**
 
 **14 September**  
 AM (9:00~12:00)  
-[**Workshop #02 *Reproducibility and Transparency in Archaeological Science using R and Related Tools***](https://github.com/benmarwick/2019-09-14-morph2019)  
+[**Workshop #02 *Reproducibility and Transparency in Archaeological Science using R and Related Tools***](https://benmarwick.github.io/2019-09-14-morph2019/)  
 by Ben Marwick (The University of Washington)  
 **lunch**  
 PM: [Plenary Session **Recent Progress of Morphometrics in Archaeology and Anthropology**](https://github.com/kotdijian/MORPH2019/blob/master/plenary.md)  
